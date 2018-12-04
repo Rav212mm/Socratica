@@ -10,3 +10,5 @@ print(message3)
 message4 = 'This is what I\'m today'
 print(message4)
 
+message5 = 'John said: "I need to be fast"'
+print(message5)
